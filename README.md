@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishna-kalyan
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Web Development and Data Science Enthusiast
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Projects related to Data Science
+- 💞️ I’m looking to collaborate on Projects related to Web development.
 - 📫 How to reach me krishnakalyanrikki@gmail.com
 
 <!---
